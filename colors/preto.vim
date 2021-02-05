@@ -45,7 +45,7 @@ let s:palette.gray20 	 = [251, "#c6c6c6"]
 let s:palette.gray21 	 = [252, "#d0d0d0"]
 let s:palette.gray22 	 = [253, "#dadada"]
 let s:palette.gray23 	 = [254, "#e4e4e4"]
-let s:palette.white  	 = [255, "#eeeeee"]
+let s:palette.white  	 = [255, "#cccccc"]
 
 let s:palette.cyan 		 = [6  , "#008080"]
 let s:palette.darkblue 	 = [18 , "#000087"]
